@@ -1,0 +1,122 @@
+.question{
+	width: 100vw;
+	height: 100vh;
+	background: #000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.f-but {
+	display: block;
+	width: 30%;
+	height: 15%;
+	background-color: #e7913b;
+	border-radius: 1em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #000;
+	font-weight: 700;
+	font-size: 1.2em;
+	transition: all 1s ease 0s;
+
+	&:hover{
+		transform: scale3d(1.12, 1.12, 1.12);
+		transition: all 1s ease 0s;
+	}
+}
+
+.variants {
+	width: 100vw;
+	height: 100vh;
+	background: #000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.main-s {
+	width: 60%;
+	height: 20%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.but-2 {
+	display: block;
+	width: 35%;
+	height: 80%;
+	background-color: #238b3f;
+	border-radius: 1em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #000;
+	font-weight: 700;
+	font-size: 1.4em;
+	transition: all 1s ease 0s;
+
+	&:hover{
+		transform: scale3d(1.12, 1.12, 1.12);
+		transition: all 1s ease 0s;
+	}
+}
+.but-3 {
+	display: block;
+	width: 35%;
+	height: 80%;
+	background-color: #981616;
+	border-radius: 1em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #000;
+	font-weight: 700;
+	font-size: 1.4em;
+	transition: all 1s ease 0s;
+
+	&:hover{
+		transform: scale3d(1.12, 1.12, 1.12);
+		transition: all 1s ease 0s;
+	}
+}
+
+.no {
+	width: 100vw;
+	height: 100vh;
+	background: #000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.main-th {
+	display: block;
+	width: 30%;
+	height: 15%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #e7913b;
+	font-weight: 700;
+	font-size: 1.2em;
+}
+
+.yes {
+	width: 100vw;
+	height: 100vh;
+	background: #000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.main-fth {
+	display: block;
+	width: 30%;
+	height: 15%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #e7913b;
+	font-weight: 700;
+	font-size: 1.2em;
+}
